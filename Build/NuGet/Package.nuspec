@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CrossChannel.SyncObjects</id>
+    <version>0.0.0</version>
+    <authors>Scott Keith Thomas, Jr.</authors>
+    <description>CrossChannel.SyncObjects</description>
+    <tags>CrossChannel.SyncObjects</tags>
+    <iconUrl>https://raw.githubusercontent.com/skthomasjr/CrossChannel.SyncObjects/master/Build/NuGet/Package.png</iconUrl>
+    <licenseUrl>https://raw.githubusercontent.com/skthomasjr/CrossChannel.SyncObjects/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/skthomasjr/CrossChannel.SyncObjects</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+	  <dependency id="Newtonsoft.Json" version="1.0.0" />
+    </dependencies>
+  </metadata>
+</package>
