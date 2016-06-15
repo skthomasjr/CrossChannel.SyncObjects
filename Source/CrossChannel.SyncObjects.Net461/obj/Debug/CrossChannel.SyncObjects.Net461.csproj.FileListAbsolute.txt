@@ -1,7 +1,0 @@
-C:\Users\Scott\Documents\GitHub\CrossChannel.SyncObjects\Source\CrossChannel.SyncObjects.Net461\bin\Debug\CrossChannel.SyncObjects.dll
-C:\Users\Scott\Documents\GitHub\CrossChannel.SyncObjects\Source\CrossChannel.SyncObjects.Net461\bin\Debug\CrossChannel.SyncObjects.pdb
-C:\Users\Scott\Documents\GitHub\CrossChannel.SyncObjects\Source\CrossChannel.SyncObjects.Net461\obj\Debug\CrossChannel.SyncObjects.Net461.csprojResolveAssemblyReference.cache
-C:\Users\Scott\Documents\GitHub\CrossChannel.SyncObjects\Source\CrossChannel.SyncObjects.Net461\obj\Debug\CrossChannel.SyncObjects.dll
-C:\Users\Scott\Documents\GitHub\CrossChannel.SyncObjects\Source\CrossChannel.SyncObjects.Net461\obj\Debug\CrossChannel.SyncObjects.pdb
-C:\Users\Scott\Documents\GitHub\CrossChannel.SyncObjects\Source\CrossChannel.SyncObjects.Net461\bin\Debug\CrossChannel.dll
-C:\Users\Scott\Documents\GitHub\CrossChannel.SyncObjects\Source\CrossChannel.SyncObjects.Net461\bin\Debug\CrossChannel.pdb
