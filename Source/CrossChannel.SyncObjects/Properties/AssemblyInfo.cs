@@ -2,11 +2,11 @@
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("CrossChannel.SyncObjects")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("CrossChannel.SyncObjects is a framework for synchronizing objects and collections using peer-to-peer (P2P) communications.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Scott Keith Thomas, Jr.")]
 [assembly: AssemblyProduct("CrossChannel.SyncObjects")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCopyright("Copyright © 2016 Scott Keith Thomas, Jr.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
