@@ -4,8 +4,8 @@
     <id>CrossChannel.SyncObjects</id>
     <version>0.0.0</version>
     <authors>Scott Keith Thomas, Jr.</authors>
-    <description>CrossChannel.SyncObjects</description>
-    <tags>CrossChannel.SyncObjects</tags>
+    <description>CrossChannel.SyncObjects is a framework for synchronizing objects and collections using peer-to-peer (P2P) communications.</description>
+    <tags>collections communications ipc mesh objects p2p peer sync syncronization tcp wcf</tags>
     <iconUrl>https://raw.githubusercontent.com/skthomasjr/CrossChannel.SyncObjects/master/Build/NuGet/Package.png</iconUrl>
     <licenseUrl>https://raw.githubusercontent.com/skthomasjr/CrossChannel.SyncObjects/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/skthomasjr/CrossChannel.SyncObjects</projectUrl>
