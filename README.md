@@ -1,4 +1,4 @@
-# CrossChannel.SyncObjects
+# CrossChannel.SyncObjects [ alpha ]
 
 [![Join the chat at https://gitter.im/skthomasjr/CrossChannel.SyncObjects](https://badges.gitter.im/skthomasjr/CrossChannel.SyncObjects.svg)](https://gitter.im/skthomasjr/CrossChannel.SyncObjects?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build](https://ci.appveyor.com/api/projects/status/7657ykxqhajdjii3?svg=true)](https://ci.appveyor.com/project/skthomasjr/crosschannel-syncobjects)
